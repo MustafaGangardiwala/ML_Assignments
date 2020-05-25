@@ -1,1 +1,1 @@
-# ML_Assignment1
+# Machine Learning Assignments
